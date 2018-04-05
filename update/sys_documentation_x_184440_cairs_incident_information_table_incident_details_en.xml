@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="incident_details" label="Incident Details" language="en" table="x_184440_cairs_incident_information_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>incident_details</element>
+            <help/>
+            <hint/>
+            <label>Incident Details</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <plural>Incident Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-09 19:54:23</sys_created_on>
+            <sys_id>a69015b34f001300d4554a318110c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident Details</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_documentation_x_184440_cairs_incident_information_table_incident_details_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-09 19:54:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="CAIRS">3d854d274f801300d4554a318110c77d</menu>
+        <name>CAIRS</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_184440_cairs</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_184440_cairs</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-09 00:27:30</sys_created_on>
+        <sys_id>2d85012f4f401300d4554a318110c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-09 00:27:30</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_184440_cairs.user" name="x_184440_cairs.user">b9854d274f801300d4554a318110c780</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

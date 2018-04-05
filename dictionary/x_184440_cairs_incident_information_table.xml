@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Cairs Incident Information Table" max_length="40" name="x_184440_cairs_incident_information_table" type="collection">
+        <element label="Incident/Accident Date and Time" mandatory="true" max_length="40" name="incident_accident_date_and_time" type="glide_date_time"/>
+        <element label="Incident Details" mandatory="true" max_length="100" name="incident_details" type="string"/>
+        <element default="Please give this incident a short title" label="Incident Title" mandatory="true" max_length="50" name="incident_title" type="string"/>
+        <element label="Injured/Affected Person" mandatory="true" max_length="50" name="injured_affected_person" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
