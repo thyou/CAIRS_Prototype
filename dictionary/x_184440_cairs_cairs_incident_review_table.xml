@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Cairs Incident Review Table" max_length="40" name="x_184440_cairs_cairs_incident_review_table" type="collection">
-        <element label="Comment" max_length="100" name="comment" type="string"/>
+        <element label="Additional Comment" max_length="4000" name="additional_comment" type="journal"/>
+        <element label="Incident Report Comment" max_length="100" name="comment" type="string"/>
         <element label="Incident Number" max_length="40" name="incident_number" read_only="true" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="WSBC Claim Status" max_length="40" name="wsbc_claim_status" type="choice">
+            <choice>
+                <element label="Approved" value="approved"/>
+                <element label="Not Approved" value="not_approved"/>
+                <element label="Not Required" value="not_required"/>
+            </choice>
+        </element>
     </element>
 </database>

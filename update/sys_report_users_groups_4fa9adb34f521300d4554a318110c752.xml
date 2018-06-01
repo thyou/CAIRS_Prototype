@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Monthly Trend">f6a9adb34f521300d4554a318110c752</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>cairs.admin</sys_created_by>
+        <sys_created_on>2018-06-01 18:05:10</sys_created_on>
+        <sys_id>4fa9adb34f521300d4554a318110c752</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f6a9adb34f521300d4554a318110c752</sys_name>
+        <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+        <sys_update_name>sys_report_users_groups_4fa9adb34f521300d4554a318110c752</sys_update_name>
+        <sys_updated_by>cairs.admin</sys_updated_by>
+        <sys_updated_on>2018-06-01 18:05:10</sys_updated_on>
+        <user_id display_value="CAIRS ADMIN">d9855d774f001300d4554a318110c77c</user_id>
+    </sys_report_users_groups>
+</record_update>
