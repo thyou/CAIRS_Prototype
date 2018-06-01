@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="site_visited" label="Site Visited?" language="en" table="x_184440_cairs_cairs_investigation_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>site_visited</element>
+            <help/>
+            <hint/>
+            <label>Site Visited?</label>
+            <language>en</language>
+            <name>x_184440_cairs_cairs_investigation_table</name>
+            <plural>Site Visited?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 19:00:07</sys_created_on>
+            <sys_id>34ef41ae4f521300d4554a318110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Site Visited?</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_documentation_x_184440_cairs_cairs_investigation_table_site_visited_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 19:00:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

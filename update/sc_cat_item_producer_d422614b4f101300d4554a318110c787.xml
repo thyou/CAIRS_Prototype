@@ -50,6 +50,16 @@ rec.initialize();
 rec.incident_number = current.number; // set field and values here
 var newID = rec.insert();
 
+var rec2 = new GlideRecord('x_184440_cairs_cairs_payroll_table'); // name of your managed docs
+rec2.initialize();  
+rec2.incident_number = current.number; // set field and values here
+var newID2 = rec2.insert();
+
+var rec3 = new GlideRecord('x_184440_cairs_cairs_investigation_table'); // name of your managed docs
+rec3.initialize();  
+rec3.incident_number = current.number; // set field and values here
+var newID3 = rec3.insert();
+
 
 producer.redirect = "cairs";]]></script>
         <short_description>Incident Report Form</short_description>
@@ -59,14 +69,14 @@ producer.redirect = "cairs";]]></script>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-19 23:32:11</sys_created_on>
         <sys_id>d422614b4f101300d4554a318110c787</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Create an incident report</sys_name>
         <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
         <sys_policy/>
         <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
         <sys_update_name>sc_cat_item_producer_d422614b4f101300d4554a318110c787</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-20 17:38:38</sys_updated_on>
+        <sys_updated_on>2018-05-28 21:14:53</sys_updated_on>
         <table_name>x_184440_cairs_incident_information_table</table_name>
         <template/>
         <type>item</type>

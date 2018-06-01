@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_cairs_servicecatalog" name="sn_dd_cairs_servicecatalog">a5091de24f921300d4554a318110c7aa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-28 19:40:02</sys_created_on>
+        <sys_id>ed091de24f921300d4554a318110c7ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a5091de24f921300d4554a318110c7aa</sys_name>
+        <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ed091de24f921300d4554a318110c7ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-28 19:40:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

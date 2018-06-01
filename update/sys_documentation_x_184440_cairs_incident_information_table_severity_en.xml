@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="severity" label="Severity" language="en" table="x_184440_cairs_incident_information_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <help/>
+            <hint/>
+            <label>Severity</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <plural>Severities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 17:03:40</sys_created_on>
+            <sys_id>869b117b4f121300d4554a318110c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Severity</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_documentation_x_184440_cairs_incident_information_table_severity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 17:03:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

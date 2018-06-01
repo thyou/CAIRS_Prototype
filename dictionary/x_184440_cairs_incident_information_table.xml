@@ -6,5 +6,20 @@
         <element default="Please give this incident a short title" label="Incident Title" mandatory="true" max_length="50" name="incident_title" type="string"/>
         <element label="Injured/Affected Person" mandatory="true" max_length="50" name="injured_affected_person" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Personal Information" max_length="50" name="personal_information" type="string"/>
+        <element choice="3" label="Person Type" mandatory="true" max_length="40" name="person_type" type="choice">
+            <choice>
+                <element label="Faculty" value="faculty"/>
+                <element label="Staff" value="staff"/>
+                <element label="Student" value="student"/>
+            </choice>
+        </element>
+        <element choice="3" label="Severity" mandatory="true" max_length="40" name="severity" type="choice">
+            <choice>
+                <element label="Incident Only" value="incident_only"/>
+                <element label="Medical Treatment" value="medical_treatment"/>
+                <element label="Time Loss" value="time_loss"/>
+            </choice>
+        </element>
     </element>
 </database>

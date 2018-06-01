@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="site_visited" table="x_184440_cairs_cairs_investigation_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site_visited</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_184440_cairs_cairs_investigation_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 19:00:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61ff45ae4f521300d4554a318110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 19:00:32</sys_updated_on>
+            <value>N</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site_visited</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_184440_cairs_cairs_investigation_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 19:00:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6ef85ae4f521300d4554a318110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 19:00:20</sys_updated_on>
+            <value>Y</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>site_visited</element>
+            <name>x_184440_cairs_cairs_investigation_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 19:00:20</sys_created_on>
+            <sys_id>c8ff45ae4f521300d4554a318110c7f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>site_visited</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_choice_x_184440_cairs_cairs_investigation_table_site_visited</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 19:00:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

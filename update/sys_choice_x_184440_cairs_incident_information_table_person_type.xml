@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="person_type" table="x_184440_cairs_incident_information_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>person_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Faculty</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 17:02:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>684b9df74f121300d4554a318110c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 17:02:18</sys_updated_on>
+            <value>faculty</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>person_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 17:02:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e2b1d3b4f121300d4554a318110c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 17:02:05</sys_updated_on>
+            <value>staff</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>person_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Student</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 17:02:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be4b5d3b4f121300d4554a318110c793</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 17:02:27</sys_updated_on>
+            <value>student</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>person_type</element>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-01 17:02:05</sys_created_on>
+            <sys_id>073b953b4f121300d4554a318110c79a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>person_type</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_choice_x_184440_cairs_incident_information_table_person_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-01 17:02:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

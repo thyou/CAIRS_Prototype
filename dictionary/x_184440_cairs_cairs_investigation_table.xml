@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Cairs Investigation Table" max_length="40" name="x_184440_cairs_cairs_investigation_table" type="collection">
+        <element label="Employer representative" max_length="50" name="employer_representative" type="string"/>
+        <element label="Incident Number" max_length="50" name="incident_number" read_only="true" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Site Visited?" max_length="40" name="site_visited" type="choice">
+            <choice>
+                <element label="No" value="N"/>
+                <element label="Yes" value="Y"/>
+            </choice>
+        </element>
+    </element>
+</database>
