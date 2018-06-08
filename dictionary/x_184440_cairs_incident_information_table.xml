@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Cairs Incident Information Table" max_length="40" name="x_184440_cairs_incident_information_table" type="collection">
+    <element label="Incident - Report" max_length="40" name="x_184440_cairs_incident_information_table" type="collection">
         <element label="Incident/Accident Date and Time" mandatory="true" max_length="40" name="incident_accident_date_and_time" type="glide_date_time"/>
         <element label="Incident Details" mandatory="true" max_length="100" name="incident_details" type="string"/>
         <element default="Please give this incident a short title" label="Incident Title" mandatory="true" max_length="50" name="incident_title" type="string"/>
@@ -19,6 +19,14 @@
                 <element label="Incident Only" value="incident_only"/>
                 <element label="Medical Treatment" value="medical_treatment"/>
                 <element label="Time Loss" value="time_loss"/>
+            </choice>
+        </element>
+        <element choice="1" label="Supervisor" max_length="40" name="supervisor" type="choice">
+            <choice>
+                <element label="Admin" value="cairs.admin"/>
+                <element label="Investigator (Supervisor)" value="cairs.investigator"/>
+                <element label="Payroll User" value="cairs.payroll"/>
+                <element label="Reporter" value="cairs.user"/>
             </choice>
         </element>
     </element>

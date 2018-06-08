@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Cairs Incident Review Table" max_length="40" name="x_184440_cairs_cairs_incident_review_table" type="collection">
-        <element label="Additional Comment" max_length="4000" name="additional_comment" type="journal"/>
+    <element audit="true" label="Incident - Review" max_length="40" name="x_184440_cairs_cairs_incident_review_table" type="collection">
+        <element label="Additional Comment" max_length="4000" name="additional_comment" type="journal_input"/>
         <element label="Incident Report Comment" max_length="100" name="comment" type="string"/>
         <element label="Incident Number" max_length="40" name="incident_number" read_only="true" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

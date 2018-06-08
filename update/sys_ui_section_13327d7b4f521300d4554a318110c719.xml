@@ -4,30 +4,44 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>0</position>
-            <sys_created_by>cairs.admin</sys_created_by>
-            <sys_created_on>2018-06-01 18:42:43</sys_created_on>
-            <sys_id>4542bd7b4f521300d4554a318110c747</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 18:37:51</sys_created_on>
+            <sys_id>03ed05bc4f621300d4554a318110c76b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_184440_cairs_cairs_investigation_table" sys_domain="global" view="Default view">13327d7b4f521300d4554a318110c719</sys_ui_section>
-            <sys_updated_by>cairs.admin</sys_updated_by>
-            <sys_updated_on>2018-06-01 18:42:43</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 18:37:51</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>additional_comment</element>
             <position>1</position>
-            <sys_created_by>cairs.admin</sys_created_by>
-            <sys_created_on>2018-06-01 18:42:43</sys_created_on>
-            <sys_id>0942bd7b4f521300d4554a318110c747</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 18:37:51</sys_created_on>
+            <sys_id>83ed05bc4f621300d4554a318110c76b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_184440_cairs_cairs_investigation_table" sys_domain="global" view="Default view">13327d7b4f521300d4554a318110c719</sys_ui_section>
-            <sys_updated_by>cairs.admin</sys_updated_by>
-            <sys_updated_on>2018-06-01 18:42:43</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 18:37:51</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 18:37:52</sys_created_on>
+            <sys_id>07ed05bc4f621300d4554a318110c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_184440_cairs_cairs_investigation_table" sys_domain="global" view="Default view">13327d7b4f521300d4554a318110c719</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 18:37:52</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Notes</caption>

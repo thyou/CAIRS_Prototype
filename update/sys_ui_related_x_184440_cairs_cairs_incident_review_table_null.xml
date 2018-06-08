@@ -3,7 +3,7 @@
     <sys_ui_related sys_domain="global" table="x_184440_cairs_cairs_incident_review_table" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Cairs Incident Review Table - Default view" name="x_184440_cairs_cairs_incident_review_table" related_list="NULL" sys_domain="global" view="Default view">12475d574f101300d4554a318110c727</list_id>
+            <list_id display_value="Incident - Review - Default view" name="x_184440_cairs_cairs_incident_review_table" related_list="NULL" sys_domain="global" view="Default view">12475d574f101300d4554a318110c727</list_id>
             <order_by/>
             <position>0</position>
             <related_list>REL:de1799574f101300d4554a318110c7e0</related_list>
@@ -16,7 +16,7 @@
             <sys_updated_on>2018-02-20 17:22:18</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>Cairs Incident Review Table - Default view</calculated_name>
+            <calculated_name>Incident - Review - Default view</calculated_name>
             <filter/>
             <name>x_184440_cairs_cairs_incident_review_table</name>
             <order_by/>

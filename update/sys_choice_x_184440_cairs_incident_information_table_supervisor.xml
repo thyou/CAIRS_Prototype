@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="supervisor" table="x_184440_cairs_incident_information_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>supervisor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c99b6cf44f221300d4554a318110c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 16:07:57</sys_updated_on>
+            <value>cairs.admin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>supervisor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Investigator (Supervisor)</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 16:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e47ba8f44f221300d4554a318110c7ab</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 16:07:43</sys_updated_on>
+            <value>cairs.investigator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>supervisor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payroll User</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 16:07:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>275b20704f221300d4554a318110c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 16:07:10</sys_updated_on>
+            <value>cairs.payroll</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>supervisor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reporter</label>
+            <language>en</language>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 16:06:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e03becf44f221300d4554a318110c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 16:06:46</sys_updated_on>
+            <value>cairs.user</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>supervisor</element>
+            <name>x_184440_cairs_incident_information_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 16:06:46</sys_created_on>
+            <sys_id>025becf44f221300d4554a318110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>supervisor</sys_name>
+            <sys_package display_value="CAIRS" source="x_184440_cairs">2d85012f4f401300d4554a318110c708</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CAIRS">2d85012f4f401300d4554a318110c708</sys_scope>
+            <sys_update_name>sys_choice_x_184440_cairs_incident_information_table_supervisor</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 16:06:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

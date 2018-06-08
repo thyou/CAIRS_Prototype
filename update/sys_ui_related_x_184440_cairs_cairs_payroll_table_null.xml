@@ -3,7 +3,7 @@
     <sys_ui_related sys_domain="global" table="x_184440_cairs_cairs_payroll_table" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Cairs Payroll Table - Default view" name="x_184440_cairs_cairs_payroll_table" related_list="NULL" sys_domain="global" view="Default view">2851b5264fd21300d4554a318110c791</list_id>
+            <list_id display_value="Incident - Payroll - Default view" name="x_184440_cairs_cairs_payroll_table" related_list="NULL" sys_domain="global" view="Default view">2851b5264fd21300d4554a318110c791</list_id>
             <order_by/>
             <position>0</position>
             <related_list>REL:8050f5e24fd21300d4554a318110c7d5</related_list>
@@ -16,7 +16,7 @@
             <sys_updated_on>2018-05-28 21:26:11</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>Cairs Payroll Table - Default view</calculated_name>
+            <calculated_name>Incident - Payroll - Default view</calculated_name>
             <filter/>
             <name>x_184440_cairs_cairs_payroll_table</name>
             <order_by/>
